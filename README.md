@@ -7,35 +7,34 @@ https://drive.google.com/file/d/1gWjtztTvr_oQ5MbLZdPcsWnrcUMS7Q09/view?usp=shari
  
 ![image](https://user-images.githubusercontent.com/50289281/68735548-19c1f980-0604-11ea-8cc5-4518a7c7e56f.png)
 
-MAPPER 1:
+# MAPPER 1:
  
 ![image](https://user-images.githubusercontent.com/50289281/68735558-22b2cb00-0604-11ea-8475-a22e001e2281.png)
 
 
 NOTE: MAPPER IS SAME FOR ALL REDUCERS 
 
-REDUCER 1: 
+# REDUCER 1: 
 ![image](https://user-images.githubusercontent.com/50289281/68735572-2ba39c80-0604-11ea-9acf-f9adcdcbe7fc.png)
 
-OUTPUT 1:
+# OUTPUT 1:
  
 ![image](https://user-images.githubusercontent.com/50289281/68735577-2e9e8d00-0604-11ea-9707-db630de6b70c.png)
 
-REDUCER 2:
+# REDUCER 2:
  
 ![image](https://user-images.githubusercontent.com/50289281/68735583-33634100-0604-11ea-9bd6-837ca31b359e.png)
 
-OUTPUT 2:
+# OUTPUT 2:
  
 ![image](https://user-images.githubusercontent.com/50289281/68735591-365e3180-0604-11ea-8189-4e4a6ff0f3d3.png)
 
-
-REDUCER 3:
+# REDUCER 3:
  
 ![image](https://user-images.githubusercontent.com/50289281/68735595-3a8a4f00-0604-11ea-9d81-73a1143c62e6.png)
 
+# OUTPUT 3:
 
-OUTPUT 3:
 ![image](https://user-images.githubusercontent.com/50289281/68735601-3ceca900-0604-11ea-8de9-5dc7cc595149.png)
 
  
@@ -67,7 +66,7 @@ OUTPUT 3:
 
  
 
-STEPS FOLLOWED:
+# STEPS FOLLOWED FOR STOCK SELECTION:
 
 •	SELECTED YEAR 2013 WITH 10 IT STOCKS
 •	CALCULATED CORRELATION BETWEEN EACH STOCKS WITH CROSS JOIN 
@@ -78,3 +77,9 @@ STEPS FOLLOWED:
 •	AS PER RANKING TOOK DECISION ON HOW MUCH CAPITAL TO BE INVESTED AND 
 
 ON FOLLOWING PAGE IS EXCEL SHEET OF STOCKS SELECTED AND CODE TO GET ALL THE DATAFRAMES 
+
+![image](https://user-images.githubusercontent.com/50289281/68735772-aec4f280-0604-11ea-9e2e-ea0e2d1681f7.png)
+![image](https://user-images.githubusercontent.com/50289281/68735774-b08eb600-0604-11ea-8f9b-a276910cba17.png)
+![image](https://user-images.githubusercontent.com/50289281/68735784-bbe1e180-0604-11ea-8db2-3707e178665a.png)
+
+
